@@ -92,9 +92,9 @@ public class Alumno {
             }
         }
 
-    if (beca.equals("PARCIAL")) {
+    if (beca.equals("Parcial")) {
         pension = pension * 0.50;
-    } else if (beca.equals("TOTAL")) {
+    } else if (beca.equals("Total")) {
         pension = 0;
     }
 
