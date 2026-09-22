@@ -77,7 +77,7 @@ public class Poo_exm_T1 {
                     } else {
 
                         System.out.println(
-                                "ERROR: El numero de documento no es valido(8 DIGITOS)."
+                                "ERROR: El numero de documento no es valido."
                         );
                     }
 
